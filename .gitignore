@@ -1,0 +1,3 @@
+# Project exclude paths
+/app/
+/node_modules/
