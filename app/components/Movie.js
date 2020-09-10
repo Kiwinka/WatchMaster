@@ -6,7 +6,7 @@ import placeholderImage from "../img/placeholder.png";
 import VideoPlayer from "./VideoPlayer";
 import NotFound from "./NotFound";
 import WindowDimensions from "./WindowDimensions";
-test
+
 
 const Movie = (props) => {
 
